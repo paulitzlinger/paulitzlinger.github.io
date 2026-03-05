@@ -1,4 +1,4 @@
-# Personal Website of Paul Leon Itzlinger
+# Paul Leon Itzlinger
 
 Welcome to my page! I am a mathematics PhD student at TU Graz, here you can find some information about me and my past projects.
 
