@@ -10,5 +10,5 @@ For my master thesis I worked on the topic of grid homology, a combinatorial var
 
 Using `griddiagrams` I found suitable grid diagrams for almost all fibered prime knots with crossing number at most 13. You can scroll through a visualization of all results below:
 
-- [Results 1 (without stabilizations)](./pdfs/no_stab.pdf)
-- [Results 2 (with stabilizations)](./pdfs/with_stab.pdf)
+- [Results 1 (without stabilizations)](./pdf/no_stab.pdf)
+- [Results 2 (with stabilizations)](./pdf/with_stab.pdf)
